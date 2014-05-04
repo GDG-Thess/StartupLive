@@ -1,0 +1,11 @@
+EasyR is an innovative software tool that eases everyday browsing and on-line reading for the dyslexic community.
+ +
+ +Its novel approach includes text segmentation that highlights and underlines a specific sentence when the mouse pointer
+ +rolls over a word that belongs to that sentence. The highlight color and the stroke of the underline can be easily
+ +chosen through drop-down lists at the EasyR bar.
+ +
+ +Furthermore, the reader can increase the font size of the highlighted sentence and apply the Open Dyslexic Font (ODF) that
+ +eases the reader's focus.
+ +
+ +EasyR at its first stage will be developed as a browser plug-in and later as a mobile/tablet application which will enable
+ +highlight through finger tracking while reading a text.
